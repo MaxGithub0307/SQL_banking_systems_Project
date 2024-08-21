@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,phone,address,date_of_birth
+1,John,Doe,john.doe@example.com,1234567890,123 Main St,1990-01-01
+2,Jane,Smith,jane.smith@example.com,0987654321,456 Elm St,1985-05-15
+3,Alice,Brown,alice.brown@example.com,1112223333,789 Maple St,1992-03-12
+4,Bob,Johnson,bob.johnson@example.com,2223334444,321 Oak St,1988-08-20
+5,Charlie,Davis,charlie.davis@example.com,3334445555,654 Pine St,1995-07-30
+6,Emily,Clark,emily.clark@example.com,4445556666,987 Cedar St,1991-11-25
+7,Frank,Miller,frank.miller@example.com,5556667777,123 Birch St,1983-04-15
+8,Grace,Taylor,grace.taylor@example.com,6667778888,456 Ash St,1994-02-18
+9,Henry,Wilson,henry.wilson@example.com,7778889999,789 Willow St,1996-09-05
+10,Ivy,Moore,ivy.moore@example.com,8889990000,321 Spruce St,1993-12-10
